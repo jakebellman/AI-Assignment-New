@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7F8167F6-8CD3-4C37-845B-B5709BA541A1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotFinder\DepthSearch.cs">
+    <Files>
+      <File FileName="RobotFinder\Program.cs" Line="34" Column="8" />
+      <File FileName="RobotFinder\Collision.cs" Line="42" Column="5" />
+      <File FileName="RobotFinder\DepthSearch.cs" Line="36" Column="7" />
+      <File FileName="RobotFinder\FieldData.cs" Line="60" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RobotFinder PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
