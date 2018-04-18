@@ -1,0 +1,4 @@
+C:\Users\Archie\Desktop\RobotFinder\RobotFinder\RobotFinder\bin\Debug\RobotFinder.exe
+C:\Users\Archie\Desktop\RobotFinder\RobotFinder\RobotFinder\bin\Debug\RobotFinder.pdb
+C:\Users\Archie\Desktop\RobotFinder\RobotFinder\RobotFinder\obj\x86\Debug\RobotFinder.exe
+C:\Users\Archie\Desktop\RobotFinder\RobotFinder\RobotFinder\obj\x86\Debug\RobotFinder.pdb
